@@ -65,11 +65,11 @@ _ **Computer Science Tutor** _
 
 _West Los Angeles College – Fall 2018 – Summer 2019_
 
--Assist students that need help understanding their assignment in Computer Science (Python, Java, Swift, C++,Html, CSS, Javascript)
+- Assist students that need help understanding their assignment in Computer Science (Python, Java, Swift, C++,Html, CSS, Javascript)
 
 _USC Upward bound /Trio – Fall 2018 – Summer 2019_
 
-_-_Assist student in comprehending the subject being presented. (Python &amp; C++)
+-Assist student in comprehending the subject being presented. (Python &amp; C++)
 
 **Internship**
 
