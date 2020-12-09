@@ -8,9 +8,9 @@
 
 - _Bachelor of Arts in Psychology_
 
-**West Los Angeles College, Culver City** Spring 2011
+**West Los Angeles College, Culver City** 
 
-- _Associates Degree in Psychology_
+- _Associates Degree in Psychology Spring 2011_
 - _Associates Degree in Computer Science Information Technology Fall 2018_
 - _Associates Degree in Web Support &amp; Database Administration June 2020_
 
