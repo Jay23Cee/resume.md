@@ -69,7 +69,7 @@ _West Los Angeles College – Fall 2018 – Summer 2019_
 
 _USC Upward bound /Trio – Fall 2018 – Summer 2019_
 
--Assist student in comprehending the subject being presented. (Python &amp; C++)
+- Assist student in comprehending the subject being presented. (Python &amp; C++)
 
 **Internship**
 
