@@ -63,17 +63,17 @@ _Micheltorena Elementary School – 2012 – Present_
 
 _ **Computer Science Tutor** _
 
-_West Los Angeles College – Fall 2018 – Summer 2019_
+_West Los Angeles College – August 2018 – December 2019_
 
 - Assist students that need help understanding their assignment in Computer Science (Python, Java, Swift, C++,Html, CSS, Javascript)
 
-_USC Upward bound /Trio – Fall 2018 – Summer 2019_
+_USC Upward bound /Trio – August 2018 – July 2019_
 
 - Assist student in comprehending the subject being presented. (Python &amp; C++)
 
 **Internship**
 
-**Los Angeles Department of Transportation** Jun 2019 – Dec 2019
+**Los Angeles Department of Transportation** June 2019 – December 2019
 
 - Gathering Data of the Scooters in the County of Los Angeles using an API.
 - Data Scientist in training.
