@@ -21,7 +21,7 @@
 
 - _Certificate of Achievement – CSU General Education (CSU-GE-Breadth) | December 2018_
 - _Certificate of Achievement – Computer Science Information Technology | December 2018_
-- Certificate of Achievement – Mobile Application Development June 2019
+- Certificate of Achievement – Mobile Application Development | June 2019
 - Certificate of Achievement - Web Support &amp; Database Administration | June 2020
 - Certificate of Achievement - Network and Information System Security | June 2020
 
