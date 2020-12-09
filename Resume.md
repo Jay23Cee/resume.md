@@ -1,6 +1,6 @@
 **Jackson Cortez Garcia**
 
-323-684-9794| Jacks23.cee@gmail.com | Los Angeles, CA| website: Jacksoncortez.com| Github.com/Jay23cee
+323-684-9794| Jackson.cortezgarcia@lausd.net | Los Angeles, CA| website: Jacksoncortez.com| Github.com/Jay23cee
 
 **EDUCATION**
 
