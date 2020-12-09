@@ -10,20 +10,20 @@
 
 **West Los Angeles College, Culver City** 
 
-- _Associates Degree in Psychology Spring 2011_
-- _Associates Degree in Computer Science Information Technology Fall 2018_
-- _Associates Degree in Web Support &amp; Database Administration June 2020_
+- _Associates Degree in Psychology | Spring 2011_
+- _Associates Degree in Computer Science Information Technology | Fall 2018_
+- _Associates Degree in Web Support &amp; Database Administration | June 2020_
 
 
 **Certificates**
 
 **West Los Angeles College, Culver City**
 
-- _Certificate of Achievement – CSU General Education (CSU-GE-Breadth) December 2018_
-- _Certificate of Achievement – Computer Science Information Technology December 2018_
+- _Certificate of Achievement – CSU General Education (CSU-GE-Breadth) | December 2018_
+- _Certificate of Achievement – Computer Science Information Technology | December 2018_
 - Certificate of Achievement – Mobile Application Development June 2019
-- Certificate of Achievement - Web Support &amp; Database Administration June 2020
-- Certificate of Achievement - Network and Information System Security June 2020
+- Certificate of Achievement - Web Support &amp; Database Administration | June 2020
+- Certificate of Achievement - Network and Information System Security | June 2020
 
 
 **Computer Languages**
